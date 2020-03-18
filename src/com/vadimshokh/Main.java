@@ -22,5 +22,6 @@ public class Main {
             }
         }
         System.out.println(Arrays.toString(mas));
+        System.out.println("Делаю 2 коммит.");
     }
 }
