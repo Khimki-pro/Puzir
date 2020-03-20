@@ -22,6 +22,6 @@ public class Main {
             }
         }
         System.out.println(Arrays.toString(mas));
-        System.out.println("Р”РµР»Р°СЋ 2 РєРѕРјРјРёС‚.");
+        System.out.println("Что-то проблема с кодировкой!");
     }
 }
