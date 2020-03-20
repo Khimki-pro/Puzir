@@ -23,5 +23,6 @@ public class Main {
         }
         System.out.println(Arrays.toString(mas));
         System.out.println("Что-то проблема с кодировкой!");
+        System.out.println("Коммит номер 2!!");
     }
 }
